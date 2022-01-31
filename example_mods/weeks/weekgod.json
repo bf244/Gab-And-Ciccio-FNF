@@ -1,0 +1,30 @@
+{
+	"storyName": "i god",
+	"hideFreeplay": false,
+	"weekBackground": "gab",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"triple-trouble",
+			"gab",
+			[
+				255,
+				233,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekgod"
+}

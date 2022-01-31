@@ -1,0 +1,48 @@
+{
+	"storyName": "bonus week",
+	"hideFreeplay": false,
+	"weekBackground": "gab",
+	"weekBefore": "weekg",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"gab",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"you-cant-run",
+			"gab",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"no-villains",
+			"gab",
+			[
+				255,
+				113,
+				253
+			]
+		],
+		[
+			"kaboom",
+			"gab",
+			[
+				255,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekz"
+}

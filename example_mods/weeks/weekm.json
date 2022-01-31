@@ -1,0 +1,30 @@
+{
+	"storyName": "sooooooo",
+	"hideFreeplay": false,
+	"weekBackground": "gab",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weeks",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"monochrome",
+			"gab",
+			[
+				0,
+				0,
+				33
+			]
+		]
+	],
+	"weekName": "weekm"
+}

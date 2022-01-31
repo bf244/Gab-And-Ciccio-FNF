@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				315,
+				160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PibbyBoyfriend Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PibbyBoyfriend Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				318,
+				160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PibbyBoyfriend Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				314,
+				161
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PibbyBoyfriend Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				160
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "PibbyBoyfriend Hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				311,
+				160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PibbyBoyfriend Sing Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				312,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "PibbyBoyfriend Sing Left"
+		},
+		{
+			"offsets": [
+				315,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "PibbyBoyfriend Sing Down"
+		},
+		{
+			"offsets": [
+				317,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "PibbyBoyfriend Sing Up"
+		},
+		{
+			"offsets": [
+				310,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "PibbyBoyfriend Sing Right"
+		},
+		{
+			"offsets": [
+				315,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "PibbyBoyfriend Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PibbyBoyfriend",
+	"position": [
+		230,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		166,
+		226
+	],
+	"camera_position": [
+		190,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-185,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gab idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-180,
+				-20
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "gab idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-189,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gab left"
+		},
+		{
+			"offsets": [
+				-179,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gab up"
+		},
+		{
+			"offsets": [
+				-288,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gab right"
+		},
+		{
+			"offsets": [
+				-350,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gab down"
+		},
+		{
+			"offsets": [
+				-320,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "gab left"
+		},
+		{
+			"offsets": [
+				-350,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "gab down"
+		},
+		{
+			"offsets": [
+				-181,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "gab up"
+		},
+		{
+			"offsets": [
+				-70,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "gab right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gab2",
+	"position": [
+		-130,
+		20
+	],
+	"healthicon": "gab",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		16,
+		8
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

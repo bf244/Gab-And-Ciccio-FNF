@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ciccio idle"
+		},
+		{
+			"offsets": [
+				65,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ciccio sing left"
+		},
+		{
+			"offsets": [
+				-68,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ciccio sing right"
+		},
+		{
+			"offsets": [
+				-29,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ciccio sing up"
+		},
+		{
+			"offsets": [
+				200,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ciccio sing down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crciccio",
+	"position": [
+		-130,
+		10
+	],
+	"healthicon": "ciccio",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		19,
+		112
+	],
+	"camera_position": [
+		20,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

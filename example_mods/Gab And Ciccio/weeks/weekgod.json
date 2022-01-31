@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"triple-trouble",
+			"gab",
+			[
+				255,
+				233,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "gab",
+	"weekCharacters": [
+		"gab",
+		"bf",
+		"gf"
+	],
+	"storyName": "i god",
+	"weekName": "weekgod",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

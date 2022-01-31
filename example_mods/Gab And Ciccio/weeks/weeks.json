@@ -1,0 +1,30 @@
+{
+	"storyName": "fleetway gab",
+	"hideFreeplay": false,
+	"weekBackground": "gab2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"super-gab",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"chaos",
+			"gab",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weeks"
+}

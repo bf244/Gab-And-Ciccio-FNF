@@ -1,0 +1,30 @@
+{
+	"storyName": "ho perso...",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"endless",
+			"gab",
+			[
+				0,
+				15,
+				120
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "lose"
+}

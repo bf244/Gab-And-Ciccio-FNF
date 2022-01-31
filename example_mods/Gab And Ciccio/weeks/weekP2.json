@@ -1,0 +1,39 @@
+{
+	"storyName": "ahahah",
+	"hideFreeplay": false,
+	"weekBackground": "gab",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"crciccio",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"other friends",
+			"ciccio",
+			[
+				206,
+				73,
+				133
+			]
+		],
+		[
+			"your last friend",
+			"ciccio",
+			[
+				206,
+				73,
+				133
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "ahahah"
+}

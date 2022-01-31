@@ -1,0 +1,48 @@
+{
+	"storyName": "oh shit....",
+	"hideFreeplay": false,
+	"weekBackground": "gab",
+	"weekBefore": "weekg",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"ciccio",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"the-deathmatch",
+			"ciccio",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"the-end",
+			"ciccio",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"sansational",
+			"ciccio",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekc"
+}

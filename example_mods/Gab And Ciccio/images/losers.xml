@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="losers.png"><SubTexture name="losers animated0000" x="0" y="0" width="1604" height="1604" frameX="0" frameY="0" frameWidth="1604" frameHeight="1604" />
+<SubTexture name="losers animated0001" x="0" y="1604" width="1604" height="1604" frameX="0" frameY="0" frameWidth="1604" frameHeight="1604" />
+</TextureAtlas>

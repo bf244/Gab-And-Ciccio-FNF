@@ -1,0 +1,66 @@
+{
+	"storyName": "just die",
+	"hideFreeplay": false,
+	"weekBackground": "gab",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Make THE change",
+			"gab",
+			[
+				255,
+				100,
+				100
+			]
+		],
+		[
+			"I'll be FINE",
+			"gab",
+			[
+				255,
+				100,
+				100
+			]
+		],
+		[
+			"always save the day",
+			"gab",
+			[
+				255,
+				100,
+				100
+			]
+		],
+		[
+			"mydoll",
+			"gab",
+			[
+				255,
+				100,
+				100
+			]
+		],
+		[
+			"thecorruptfun",
+			"gab",
+			[
+				255,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "haahaahahah"
+}

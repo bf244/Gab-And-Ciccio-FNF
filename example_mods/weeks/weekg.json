@@ -1,0 +1,66 @@
+{
+	"storyName": "sei sicuro?",
+	"hideFreeplay": false,
+	"weekBackground": "gab",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"thunderstorm",
+			"gab",
+			[
+				255,
+				60,
+				20
+			]
+		],
+		[
+			"ugh",
+			"gab",
+			[
+				255,
+				60,
+				20
+			]
+		],
+		[
+			"fuckelerant",
+			"gab",
+			[
+				255,
+				60,
+				20
+			]
+		],
+		[
+			"pro",
+			"gab",
+			[
+				255,
+				60,
+				20
+			]
+		],
+		[
+			"parasite",
+			"gab",
+			[
+				255,
+				60,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekg"
+}

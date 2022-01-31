@@ -1,0 +1,2683 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "philly",
+		"player1": "bf",
+		"player2": "ciccio",
+		"player3": "gf",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						92307.6923076923,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						92423.0769230769,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						92538.4615384615,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						92653.8461538461,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						92769.2307692307,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						92884.6153846153,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						92999.9999999999,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						93115.3846153846,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						93230.7692307692,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						93346.1538461538,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						93461.5384615384,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						93576.923076923,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						93692.3076923076,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						93807.6923076923,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						93923.0769230769,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						94038.4615384615,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						94153.8461538461,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						94269.2307692307,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						94384.6153846153,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						94499.9999999999,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						94615.3846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						94730.7692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						94846.1538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						95884.6153846153,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						95769.2307692307,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						95653.8461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						95538.4615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						95423.0769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						95307.6923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						95076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						94961.5384615384,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						95192.3076923076,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						95999.9999999999,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						96115.3846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						96230.7692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						96346.1538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						96461.5384615384,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						96576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						96692.3076923076,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						97730.7692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						97615.3846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						97499.9999999999,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						97269.2307692307,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						97384.6153846153,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						97153.8461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						97038.4615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						96807.6923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						96923.0769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						97846.1538461538,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						97961.5384615384,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98192.3076923076,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98307.6923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98423.0769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98538.4615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98653.8461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98769.2307692307,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98884.6153846153,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						98999.9999999999,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						99115.3846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						99230.7692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						99346.1538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						99461.5384615384,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						99576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						99692.3076923076,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						99807.6923076922,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						99923.0769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100038.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100153.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100269.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100384.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100500,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100615.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100730.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100846.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						100961.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						101192.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						101076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						101307.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						101423.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103269.230769231,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						101538.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						101653.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						101769.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						101884.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102000,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102115.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102230.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102346.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102461.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102692.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						103153.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						103038.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102923.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						102807.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103384.615384615,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						103500,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						103615.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						103730.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						103846.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						103961.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						104076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						105115.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						105000,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						104769.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						104884.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						104653.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						104192.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						104307.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						104423.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						104538.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105230.769230769,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						106961.538461538,
+						-1,
+						"Blammed Lights",
+						"4  ",
+						""
+					],
+					[
+						105346.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						105461.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						105692.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						105576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						105807.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						105923.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						106038.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						106153.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						106269.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						106500,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						106730.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						106846.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						106615.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						106384.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						107192.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						107307.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						108807.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						108692.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						108576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						108461.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						108230.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						108346.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						108115.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						108000,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						107423.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						107538.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						107653.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						107769.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						107884.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108923.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109038.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						110653.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						110538.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						110423.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						110307.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						110076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109153.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109269.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109384.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109500,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109615.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109730.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109846.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						109961.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						110192.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110769.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						110884.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111000,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111115.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						112500,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						112384.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						112269.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						112038.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						112153.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111923.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111461.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111230.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111346.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111692.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						111807.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						112730.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						112615.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						112846.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						112961.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						113076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						114346.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						114115.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						114230.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						114000,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						113769.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						113192.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						113307.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						113423.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						113538.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						113653.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						113884.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						114461.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						114576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						114692.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						114807.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						114923.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115153.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115038.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115269.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115384.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115500,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						116192.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						116076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115961.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115730.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115615.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						115846.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						116307.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						116423.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						116538.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						116653.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						116769.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117000,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						116884.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117115.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117230.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117346.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						118038.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117923.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117807.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117461.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						117692.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						118153.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						118269.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						119884.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						119769.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						118384.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						118500,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						118615.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						118730.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						118846.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						118961.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						119076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						119192.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						119307.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						119423.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						119538.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						119653.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						120000,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						120115.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						120230.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						121730.769230769,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						121615.384615385,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						121500,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						121384.615384615,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						120346.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						120461.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						120576.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						120692.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						120807.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						120923.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						121038.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						121153.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						121269.230769231,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						121846.153846154,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						121961.538461538,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						122076.923076923,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						122192.307692308,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						122307.692307692,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						122423.076923077,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						122538.461538461,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					],
+					[
+						122653.846153846,
+						-1,
+						"Blammed Lights",
+						"4 ",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			}
+		],
+		"splashSkin": null,
+		"validScore": false,
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Sansational"
+	}
+}

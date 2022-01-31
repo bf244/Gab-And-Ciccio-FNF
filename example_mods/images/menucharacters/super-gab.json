@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Dad Idle",
+	"image": "m_supergab",
+	"position": [
+		341,
+		226
+	],
+	"scale": 0.65,
+	"confirm_anim": "M Dad Idle"
+}
